@@ -1,0 +1,71 @@
+#video_license_attribution { 
+	background-image:url('creative_commons_icons.png');
+	background-repeat:no-repeat;
+	height:60px;
+	width:64px;
+	padding-top:74px;
+	text-align:center;
+}
+
+
+#video_license_sharealike { 
+	background-image:url('creative_commons_icons.png');
+	background-repeat:no-repeat;
+	background-position:-64px 0;
+	height:60px;
+	width:64px;
+	padding-top:74px;
+	text-align:center;
+}
+
+#video_license_noncommercial { 
+	background-image:url('creative_commons_icons.png');
+	background-repeat:no-repeat;
+	background-position:-128px 0;
+	height:60px;
+	width:64px;
+	padding-top:74px;
+	text-align:center;
+}
+
+#video_license_author { 
+	margin-bottom:15px;
+}
+
+#video_license_noderiv { 
+	background-image:url('creative_commons_icons.png');
+	background-repeat:no-repeat;
+	background-position:-192px 0;
+	height:60px;
+	width:64px;
+	padding-top:74px;
+	text-align:center;
+}
+
+#video_license_publicdomain { 
+	background-image:url('creative_commons_icons.png');
+	background-repeat:no-repeat;
+	background-position:-256px 0;
+	height:60px;
+	width:64px;
+	padding-top:74px;
+	text-align:center;
+}
+
+#video_license_or { 
+	font-size:21px;
+	padding-top:40px;
+	width:30px;
+	text-align:center;
+}
+
+#video_license_author_wrap { 
+	width:190px;
+}
+
+.cc_option_wrap { 
+	float:left;
+	margin-right:25px;
+	margin-top:10px;
+}
+
